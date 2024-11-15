@@ -3696,9 +3696,14 @@
     "status": "Broken",
     "reference": "",
     "anticheats": [
-      "Anti-Cheat Expert"
+      "Anti-Cheat Expert",
+      "miHoYo Protect"
     ],
     "notes": [
+      [
+        "Version 2.6 replaced ACE with hoyokprot, but the game remains nonfunctional.",
+        ""
+      ],
       [
         "Workarounds required.",
         ""
